@@ -1,0 +1,4 @@
+pycaret
+pandas_datareader
+pandas
+requests
